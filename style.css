@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    background:#f4f4f4;
+    font-family:Arial, sans-serif;
+}
+
+.container{
+    width:800px;
+    margin:40px auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+.profile{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+    border:5px solid #0077ff;
+}
+
+h1,h2,h3{
+    text-align:center;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+td{
+    border:1px solid #ddd;
+    padding:10px;
+}
+
+ul{
+    line-height:30px;
+}
+
+hr{
+    margin:25px 0;
+}
+
+p{
+    font-size:18px;
+}
